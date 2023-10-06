@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from 'firebase/auth'
 import {getFirestore} from 'firebase/firestore'
 const firebaseConfig = {
-  apiKey: "AIzaSyC0LR7sQWvIqs22-kd4_gqdFPKA6tA2hWw",
-  authDomain: "blog-web-practise.firebaseapp.com",
-  projectId: "blog-web-practise",
-  storageBucket: "blog-web-practise.appspot.com",
-  messagingSenderId: "932959042927",
-  appId: "1:932959042927:web:5cb2312d87550de5cc3c9a"
+  apiKey: "AIzaSyAoLX14kHkyKWrIyilejmWkhp_MoTwCv14",
+  authDomain: "desol-test-13388.firebaseapp.com",
+  projectId: "desol-test-13388",
+  storageBucket: "desol-test-13388.appspot.com",
+  messagingSenderId: "334410235057",
+  appId: "1:334410235057:web:7cbe357a09bbfd78ba3690"
 };
 
 // Initialize Firebase
